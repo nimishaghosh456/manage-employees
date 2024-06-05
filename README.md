@@ -59,3 +59,6 @@ All employee data is stored in the browser's local storage. This means the data 
 Conclusion
 
 This "Manage Employees" web application provides a straightforward and efficient way to manage employee information with ease. Its use of modern web technologies ensures a smooth user experience and responsive design, making it accessible on various devices. The local storage feature allows for persistent data management without the need for a backend server.
+
+<img width="959" alt="image" src="https://github.com/nimishaghosh456/manage-employees/assets/104819929/5bc597ac-ebb5-4fee-acca-3b4ead9ec624">
+
