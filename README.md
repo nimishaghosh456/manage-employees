@@ -62,3 +62,12 @@ This "Manage Employees" web application provides a straightforward and efficient
 
 <img width="959" alt="image" src="https://github.com/nimishaghosh456/manage-employees/assets/104819929/5bc597ac-ebb5-4fee-acca-3b4ead9ec624">
 
+The add new employee opens this modal:
+
+<img width="959" alt="image" src="https://github.com/nimishaghosh456/manage-employees/assets/104819929/8609132c-2b33-48f0-bed6-a0a7c10d4483">
+
+The edit(pencil icon) button opens this modal with prefilled data:
+
+<img width="959" alt="image" src="https://github.com/nimishaghosh456/manage-employees/assets/104819929/712cd751-64e0-4669-bb44-295037adb6ef">
+
+
