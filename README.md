@@ -12,14 +12,14 @@ The "Add new employee" button opens a modal window with a form.
 Users can input the employee's first name, last name, username, contact number, email, address, country, state, and zip code.
 Upon submission, the new employee's data is saved to local storage and displayed in the employee list.
 
-3. Edit Employee Information
+2. Edit Employee Information
 
 Each employee record in the list has an edit button.
 Clicking the edit button opens a modal window pre-filled with the employee's current data.
 Users can modify the existing data and save changes.
 The updated information is then stored back into local storage and reflected in the list.
 
-4. Delete Employee
+3. Delete Employee
 
 Each employee record has a delete button. Clicking the delete button will remove the respective employee's data from the list and local storage.
 
