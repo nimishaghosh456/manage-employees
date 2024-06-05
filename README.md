@@ -1,25 +1,34 @@
-Manage Employees Web Application
+#Manage Employees Web Application
 
 Overview
+
 The "Manage Employees" web application is a simple, user-friendly interface designed to manage employee information. It is built using HTML, CSS, Bootstrap, and JavaScript, and it utilizes the browser's local storage to save data. This application allows users to add, edit, and delete employee records seamlessly.
 
 Features
+
 1. Add New Employee
+
 The "Add new employee" button opens a modal window with a form.
 Users can input the employee's first name, last name, username, contact number, email, address, country, state, and zip code.
 Upon submission, the new employee's data is saved to local storage and displayed in the employee list.
-2. Edit Employee Information
+3. Edit Employee Information
+
 Each employee record in the list has an edit button.
 Clicking the edit button opens a modal window pre-filled with the employee's current data.
 Users can modify the existing data and save changes.
 The updated information is then stored back into local storage and reflected in the list.
-3. Delete Employee
-Each employee record has a delete button.
-Clicking the delete button will remove the respective employee's data from the list and local storage.
+4. Delete Employee
+
+Each employee record has a delete button. Clicking the delete button will remove the respective employee's data from the list and local storage.
+
 Technologies Used
+
 HTML: For structuring the content and layout of the web application.
+
 CSS: For styling the application and making it visually appealing.
+
 Bootstrap: For responsive design and pre-built components, ensuring the application works well on different devices and screen sizes.
+
 JavaScript: For handling the dynamic functionalities such as opening modals, form submissions, and local storage operations.
 
 How to Use
